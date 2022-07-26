@@ -1,1 +1,19 @@
-
+{
+  {
+    "descrição": "Eliminatórias da Copa 2022",
+    "local": {
+      "nome": "Maracanã",
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "Brazil",
+      "forca": 5,
+      "imagem": "TODO"
+    },
+    "visitante": {
+      "nome": "Argentina",
+      "forca": 5,
+      "imagem": "TODO"
+    }  
+  }
+}
